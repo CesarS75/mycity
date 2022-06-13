@@ -1,0 +1,65 @@
+html {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+body {
+    margin: 0;
+    background: rgb(175, 165, 165);
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+    line-height: 1.4;
+}
+h1 {
+    font-size: 30px;
+    margin: 0.67em 0;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+}
+img {
+    border: 0;
+}
+
+.all {
+    margin: 0 auto;
+    width: 960px;
+}
+
+.places {
+    float: left;
+    width: 200px;
+    font-size: 130%;
+}
+
+.place1 {
+    width: 700px;
+    margin: auto;
+    background-color: whitesmoke;
+}
+
+.place2 {
+    width: 700px;
+    margin: auto;
+    background-color: whitesmoke;
+}
+
+.place3 {
+    width: 700px;
+    margin: auto;
+    background-color: whitesmoke;
+}
+
+.video {
+    float: right;
+    margin-top: 20px;
+    margin-right: 100px;
+    background-color: white;
+}
+
+h3 {
+    font-size: 30px;
+    text-align: center;
+}
